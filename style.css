@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Pacifico&display=swap');
+@import url('https://fonts.cdnfonts.com/css/harry-potter');
+@import url('https://fonts.cdnfonts.com/css/meconte');
+@import url('https://fonts.cdnfonts.com/css/modern-age');
+/*importandofonte do google*/
+
+
+/*resert basico*/
+
+* {
+    box-sizing: border-box;
+    margin: 20%;
+    /*um eespaçamento externo*/
+    padding: 0%;
+    /*um epçamento interno*/
+}
+
+h1 {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    /*mudar o tipo da fonte*/
+    font-size: 300%;
+}
+
+p {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 50;
+    font-style: normal;
+    font-weight: lighter;
+}
+
+h2{
+    font-family: 'Harry Potter', sans-serif;                                      
+    text-align: center;
+    font-size: 50px;
+}
+
+h3{
+    font-family: 'MECONTE', sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+h4{
+    font-family: 'Modern Age', sans-serif;
+    text-align: center;
+    font-size: 0%;
+}

@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 20%;
+    padding: 20%;
+}
+
+.card img{
+    margin-top: 10px;
+    font-weight: 200px;
+    border-radius: 20px;
+}
+
+.card{
+    width: 420px;
+    border: solid 3px red;
+    display: inline-block;
+}
